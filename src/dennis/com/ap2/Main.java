@@ -20,7 +20,7 @@ public class Main {
         s3.connection.put('B', s0);
         s3.connection.put('A', s3);
 
-        // make a code
+        //makes a Code
         s0.setCode("ABABBAXBBAABB");
         //set starting node in currentnode
         s0.setCurrentnode(s0);
